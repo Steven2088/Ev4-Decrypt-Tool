@@ -4,7 +4,7 @@
 ## 文件说明
 
 - ev4-decrypt-tool：解码工具文件
-- batch-example.bat：批处理样例脚本
+- batch-example.bat：批处理脚本样例
 
 ## 使用说明
 
